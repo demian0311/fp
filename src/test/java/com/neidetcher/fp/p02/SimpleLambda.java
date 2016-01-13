@@ -1,4 +1,4 @@
-package com.neidetcher.fp;
+package com.neidetcher.fp.p02;
 
 import org.junit.Test;
 import java.util.function.Predicate;

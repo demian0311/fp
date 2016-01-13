@@ -1,4 +1,4 @@
-package com.neidetcher.fp.p03;
+package com.neidetcher.fp.p04;
 
 import org.junit.Test;
 
